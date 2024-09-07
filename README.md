@@ -25,7 +25,7 @@ I am currently delving into low-level programming languages to gain a deeper und
 
 ## 📫 How to Reach Me
 
-- **Email:** beok159@gmail.com
+- **Email:** kasichon.k.nakto@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kasichon-nakto-b31878323/)
 - **GitHub:** [Your GitHub Profile](https://github.com/SaKagiRi)
 
